@@ -18,7 +18,7 @@
 - 🌐 **Full-stack web developer** building end-to-end applications with Django
 - 🤖 Bridging my **strong mathematical foundation** with **Machine Learning** and **Computer Vision**
 - 🔬 I enjoy turning math and data into things that actually work — from web apps to vision models
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **billel.azzouz@nhsm.edu.dz**
 
 ---
 
