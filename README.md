@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azzouz Billel</h1>
 
 <p align="center">
-  Applied Mathematics student · Full-Stack Web Developer · Aspiring ML / Computer Vision Engineer
+  Applied Mathematics student · Full-Stack Web Developer · Aspiring ML / Computer Vision future Engineer
 </p>
 
 <p align="center">
