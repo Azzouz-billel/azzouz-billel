@@ -16,56 +16,24 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 <!-- ═══════════════════════════ 01 · ABOUT ═══════════════════════════ -->
-<br/>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58A6FF&text=%E2%9F%A8%2001%20%E2%9F%A9%20%20ABOUT%20ME&fontSize=26&fontAlign=center&fontAlignY=50&height=55&animation=fadeIn" width="100%"/>
 </div>
 
-<table align="center">
-<tr>
-<td width="55%" valign="top">
+<div align="center">
 
-```python
-class Billel:
-    education = "Modeling & Simulation (Applied Mathematics)"
-    role      = "Full-Stack Web Developer"
-    focus     = ["Machine Learning", "Computer Vision"]
-    currently = "YOLO · OpenCV · CNNs"
-    contact   = "billel.azzouz@nhsm.edu.dz"
-```
+4th-year **Applied Mathematics** student · **Full-Stack Developer** (Django) · Aspiring **ML / Computer Vision** engineer
 
-</td>
-<td width="45%" valign="top">
+Currently learning **YOLO · OpenCV · CNNs** — turning math into working software
 
-**Profile**
+📫 **billel.azzouz@nhsm.edu.dz**
 
-- 4th-year student in **Applied Mathematics**
-- Building end-to-end apps with **Django**
-- Bridging **math** with **ML & Computer Vision**
-- Turning math and data into things that actually work
-
-**Current trajectory**
-
-- Object detection with **YOLO**
-- Image processing with **OpenCV**
-- Fundamentals of **CNNs**
-- Deploying vision models in real applications
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ═══════════════════════════ 02 · TECH STACK ═══════════════════════════ -->
-<br/>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58A6FF&text=%E2%9F%A8%2002%20%E2%9F%A9%20%20TECH%20STACK&fontSize=26&fontAlign=center&fontAlignY=50&height=55&animation=fadeIn" width="100%"/>
 </div>
@@ -121,30 +89,10 @@ class Billel:
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 <!-- ═══════════════════════════ 03 · ANALYTICS ═══════════════════════════ -->
-<br/>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58A6FF&text=%E2%9F%A8%2003%20%E2%9F%A9%20%20GITHUB%20ANALYTICS&fontSize=26&fontAlign=center&fontAlignY=50&height=55&animation=fadeIn" width="100%"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azzouz-billel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzouz-billel&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=azzouz-billel&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=azzouz-billel&theme=tokyonight&utcOffset=1" alt="Productive Time" height="170"/>
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azzouz-billel&theme=tokyonight" alt="Profile Details" width="98%"/>
@@ -153,20 +101,39 @@ class Billel:
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azzouz-billel&theme=tokyonight" alt="Repos per Language" height="180"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azzouz-billel&theme=tokyonight" alt="Most Commit Language" height="180"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=azzouz-billel&theme=tokyonight" alt="Stats" height="180"/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=azzouz-billel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" height="170"/>
+</td>
+<td align="center" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzouz-billel&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+  <img src="https://streak-stats.demolab.com/?user=azzouz-billel&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+</td>
+<td align="center" width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=azzouz-billel&theme=tokyonight&utcOffset=1" alt="Productive Time" height="170"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azzouz-billel&theme=tokyonight" alt="Repos per Language" height="170"/>
+</td>
+<td align="center" width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azzouz-billel&theme=tokyonight" alt="Most Commit Language" height="170"/>
+</td>
+</tr>
+</table>
+
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 <!-- ═══════════════════════════ 04 · ACTIVITY ═══════════════════════════ -->
-<br/>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58A6FF&text=%E2%9F%A8%2004%20%E2%9F%A9%20%20CONTRIBUTION%20ACTIVITY&fontSize=26&fontAlign=center&fontAlignY=50&height=55&animation=fadeIn" width="100%"/>
 </div>
@@ -187,11 +154,7 @@ class Billel:
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 <!-- ═══════════════════════════ 05 · ACHIEVEMENTS ═══════════════════════════ -->
-<br/>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58A6FF&text=%E2%9F%A8%2005%20%E2%9F%A9%20%20ACHIEVEMENTS&fontSize=26&fontAlign=center&fontAlignY=50&height=55&animation=fadeIn" width="100%"/>
 </div>
@@ -202,15 +165,7 @@ class Billel:
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=2000&color=8B949E&center=true&vCenter=true&width=600&height=30&lines=Always+learning%2C+building%2C+and+turning+math+into+working+software." alt="Footer typing"/>
-</div>
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </div>
@@ -218,3 +173,4 @@ class Billel:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,12&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
+
